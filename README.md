@@ -1,4 +1,4 @@
-An example mailicious page used by an attacker for CSRF attack
+An example mailicious page used to create CSRF attack on NodeGoat App
 
 ## Running the server
 
